@@ -628,8 +628,8 @@ function Start-NetworkMonitor {
 }
 # --- ONLINE/OFFLINE NOTIFIER END ---
 
-$botToken = "urbot"
-$userId = "urid"
+$botToken = "7247630595:AAE0Rtt4pfBsAHeSM8oPlc6SBT0-TuevaPM"
+$userId = "6218146252"
 $apiUrl = "https://api.telegram.org/bot$botToken"
 $lastUpdateId = 0 # Initial default
 
